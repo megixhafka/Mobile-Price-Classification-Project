@@ -9,7 +9,11 @@ is affecting the price in higher scale can help the consumer make a mindful purc
 ## Objective
 In this project our objective is to find a relation on how some of the features affect the price of
 mobile phones. Price range is what we will predict based on the specific features of a phone, so
-our target value is ‘y’ with values of : 0 = low cost, 1 = medium cost, 2 = high cost, 3 = very high
+our target value is ‘y’ with values of : 
+- 0 = low cost
+- 1 = medium cost 
+- 2 = high cost
+- 3 = very high
 cost.
 ## Dataset
 The database that we used, was found on kaggle and its link is shown here:
